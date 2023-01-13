@@ -1,1 +1,1 @@
-# yandex_prakticum
+# other
